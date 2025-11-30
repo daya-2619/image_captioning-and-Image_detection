@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+transformers
+accelerate
+Pillow
+numpy
+opencv-python
